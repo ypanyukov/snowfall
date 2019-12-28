@@ -1,2 +1,0 @@
-# snowfall
-Created with CodeSandbox
